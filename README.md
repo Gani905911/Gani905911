@@ -1,7 +1,10 @@
 <!-- ===================== HERO BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Peddajollu%20Ganesh%20Kumar%20Reddy&fontSize=38&fontAlignY=38&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="Header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ganesh%20Kumar%20Reddy&fontSize=45&fontColor=ffffff&fontAlignY=40" alt="Header banner" width="100%"/>
+
+<h3>Peddajollu Ganesh Kumar Reddy</h3>
+<h4>AI & Machine Learning | Full Stack Developer</h4>
 
 <!-- Animated typing text: edit the lines= values (separate with ;) -->
 <a href="https://github.com/Gani905911">
@@ -164,6 +167,6 @@ A machine learning model that predicts accident risk from **weather, road condit
 
 ⭐ *If you like my work, drop a star on my repositories!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="Footer" width="100%"/>
 
 </div>
